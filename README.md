@@ -7,17 +7,19 @@ structural remodeling in patients with PAF, the detection of possible changes in
 (ECG) is challenging. The atrial depolarization is represented on the surface ECG as the P-wave. P-wave closely 
 correlates with the conduction in specific parts of the atria and thus any deflection of the P-wave characteristics 
 implies regional changes in atrial activation time and conduction route. [1] 
-[1] Hindricks, Gerhard, et al. "2020 ESC Guidelines for the diagnosis and management of atrial fibrillation 
-developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS) The Task Force 
-for the diagnosis and management of atrial fibrillation of the European Society of Cardiology (ESC) Developed 
-with the special contribution of the European Heart Rhythm Association (EHRA) of the ESC." European heart 
-journal 42.5 (2021): 373-498. 
+
 Data used: Signals from the PAF Prediction Challenge Database from physionet will be used 
 (https://physionet.org/content/afpdb/1.0.0/). This database contains two channel ECG recording of 30 minutes 
 duration, from both healthy subjects and from PAF patients, which are further categorised as those where the 
 PAF episodes start immediately after the end of the recording and those where the recording s distant from any 
 episode of PAF (there is no PAF during the 45-minute period before the beginning or after the end of the 30
 minute record). Each group includes 50 distinct subjects. 
+
+[1] Hindricks, Gerhard, et al. "2020 ESC Guidelines for the diagnosis and management of atrial fibrillation 
+developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS) The Task Force 
+for the diagnosis and management of atrial fibrillation of the European Society of Cardiology (ESC) Developed 
+with the special contribution of the European Heart Rhythm Association (EHRA) of the ESC." European heart 
+journal 42.5 (2021): 373-498. 
 [2] Moody GB, Goldberger AL, McClennen S, Swiryn SP. Predicting the Onset of Paroxysmal Atrial Fibrillation: 
 The Computers in Cardiology Challenge 2001. Computers in Cardiology 28:113-116 (2001). 
 
